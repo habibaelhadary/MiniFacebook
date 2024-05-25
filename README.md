@@ -7,3 +7,8 @@
 - Comprehensive News Feed: Stay updated with real-time news and updates from your network.
 - Advanced Search: Find the content you're looking for quickly and efficiently.
 - Enhanced Friend Networking: Connect and expand your social circle effortlessly.
+## Technologies Used 🚀
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: C#, ASP.NET MVC
+- **Database**: SQL Server
+- **Frameworks**: Entity Framework, ASP.NET Cor
