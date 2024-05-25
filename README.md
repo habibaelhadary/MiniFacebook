@@ -16,7 +16,7 @@ Check out the [demo video](https://drive.google.com/file/d/1F7XXghokebqbagy_SKwV
 - **Frameworks**: Entity Framework, ASP.NET Cor
 ## Acknowledgments 🙏
 Special thanks to the Information Technology Institute (ITI) for their support and guidance throughout the development of Mini-Facebook. ❤️
-## Getting Started
+## Getting Started 🔑
 To get started with Mini-Facebook, follow these steps:
 
 1. Clone the repository.
