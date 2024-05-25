@@ -1,3 +1,3 @@
 # Mini-Facebook
 -------------------------------------------------------
--- A social networking platform similar to Facebook
+## A social networking platform similar to Facebook
